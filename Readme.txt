@@ -1,0 +1,3 @@
+Notre sujet d' Api :
+
+Les clients peuvent utiliser notre système en s'inscrivant d'abord et en se connectant ensuite. Une fois connecté, ils peuvent gérer leurs commandes en les créant, en les supprimant et en les mettant à jour. Les API pertinentes pour ces actions se trouvent dans le dossier routes et ont été commentées pour une meilleure compréhension. Les clients peuvent également se déconnecter lorsqu'ils ont terminé d'utiliser le système.
